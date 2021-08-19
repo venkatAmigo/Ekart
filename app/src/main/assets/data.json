@@ -1,0 +1,41 @@
+{
+  "categories": ["Watches","Shoes","Mobiles","Clothes"],
+  "types": {
+    "Watches": [
+      {
+        "name": "watch1",
+        "price": "200",
+        "desc": "Sample"
+      },
+      {
+        "name": "watch2",
+        "price": "500",
+        "desc": "Sample"
+      }
+    ],
+    "Shoes": [
+      {
+        "name": "watch1",
+        "price": "200",
+        "desc": "Sample"
+      },
+      {
+        "name": "watch2",
+        "price": "500",
+        "desc": "Sample"
+      }
+    ],
+    "Mobiles": [
+      {
+        "name": "watch1",
+        "price": "200",
+        "desc": "Sample"
+      },
+      {
+        "name": "watch2",
+        "price": "500",
+        "desc": "Sample"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Ekart</string>
+    <string name="msg_enter_email">Please Enter Email</string>
+    <string name="msg_enter_phone">Please Enter Phone</string>
+    <string name="msg_enter_password">Please Enter Password</string>
+    <string name="msg_enter_cpassword">Please Re-Enter Password</string>
+    <string name="msg_enter_valid_email">Please Enter Valid Email</string>
+    <string name="msg_enter_valid_phone">Please Enter Valid Phone</string>
+    <string name="msg_enter_valid_pwd">Please Enter Valid Password</string>
+    <string name="default_text">TextView</string>
+    <string name="data">{
+  "categories": ["Watches","Shoes","Mobiles","Clothes"],
+  "types": {
+    "watches": [
+      {
+        "name": "watch1",
+        "price": "200",
+        "desc": "Sample"
+      },
+      {
+        "name": "watch2",
+        "price": "500",
+        "desc": "Sample"
+      }
+    ],
+    "shoes": [
+      {
+        "name": "watch1",
+        "price": "200",
+        "desc": "Sample"
+      },
+      {
+        "name": "watch2",
+        "price": "500",
+        "desc": "Sample"
+      }
+    ],
+    "mobiles": [
+      {
+        "name": "watch1",
+        "price": "200",
+        "desc": "Sample"
+      },
+      {
+        "name": "watch2",
+        "price": "500",
+        "desc": "Sample"
+      }
+    ]
+  }
+}</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="login">Login</string>
+    <string name="name">Ekart</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="signup">Signup</string>
+    <string name="enter_email_phone">Enter Email / Phone</string>
+    <string name="please_enter_valid_credentials">Please Enter valid Credentials</string>
+</resources>
